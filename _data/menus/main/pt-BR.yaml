@@ -1,0 +1,10 @@
+- url: "/fundos/"
+  title: Fundos
+- url: "/equipe/"
+  title: Equipe
+- url: "/governanca/"
+  title: Governança
+- url: "/contato/"
+  title: Contato
+- url: "/investir/"
+  title: Investir

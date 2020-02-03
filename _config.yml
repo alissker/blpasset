@@ -1,0 +1,17 @@
+# Site settings
+title: BLP Fundos Multimercados e Ações
+email: contato@blp.com.br
+description: >-
+  Somos uma gestora diferenciada de fundos estruturados e alternativos que visa buscar retornos de médio e longo prazo.
+url: "https://blp.com.br"
+baseurl: ""
+
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+theme: jekyll-theme-blp
+
+
+# SEO
+lang: pt-BR
